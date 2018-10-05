@@ -1,0 +1,3 @@
+nicolas_photographie_homepage:
+    path:     /
+    defaults: { _controller: NicolasPhotographieBundle:Default:homepage }

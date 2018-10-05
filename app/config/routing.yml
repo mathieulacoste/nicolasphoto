@@ -1,0 +1,7 @@
+nicolas_photographie:
+    resource: "@NicolasPhotographieBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation

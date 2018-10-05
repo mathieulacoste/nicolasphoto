@@ -1,0 +1,4 @@
+services:
+#    nicolas_photographie.example:
+#        class: NicolasPhotographieBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
