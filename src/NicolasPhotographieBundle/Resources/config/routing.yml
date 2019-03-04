@@ -1,3 +1,48 @@
 nicolas_photographie_homepage:
     path:     /
     defaults: { _controller: NicolasPhotographieBundle:Default:homepage }
+
+nicolas_photographie_biographie:
+    path:     /biographie
+    defaults: { _controller: NicolasPhotographieBundle:Default:biographie}
+
+nicolas_photographie_contact:
+    path:     /contact
+    defaults: { _controller: NicolasPhotographieBundle:Default:contact}
+
+nicolas_photographie_portfolio:
+    path:     /portfolio
+    defaults: {_controller: NicolasPhotographieBundle:Default:portfolio}
+
+nicolas_photographie_mariage:
+    path:     /mariage
+    defaults: {_controller: NicolasPhotographieBundle:Default:mariage}
+
+nicolas_photographie_vision:
+    path:     /vision
+    defaults: {_controller: NicolasPhotographieBundle:Default:vision}
+
+nicolas_photographie_portrait:
+    path:     /portrait
+    defaults: {_controller: NicolasPhotographieBundle:Default:portrait}
+
+nicolas_photographie_noiretblanc:
+    path:     /noir_et_blanc
+    defaults: {_controller: NicolasPhotographieBundle:Default:noiretblanc}
+
+nicolas_photographie_argentique:
+    path:     /argentique
+    defaults: {_controller: NicolasPhotographieBundle:Default:argentique}
+
+nicolas_photographie_exploration:
+    path:     /exploration
+    defaults: {_controller: NicolasPhotographieBundle:Default:exploration}
+
+nicolas_photographie_professionnel:
+    path:     /professionnel
+    defaults: {_controller: NicolasPhotographieBundle:Default:professionnel}
+
+nicolas_photographie_aufildutemps:
+    path:     /au_fil_du_temps
+    defaults: {_controller: NicolasPhotographieBundle:Default:aufildutemps}
+
