@@ -3,7 +3,6 @@ body, * {
     padding: 0;
     box-sizing: border-box;
 }
-
 .footer {
     height: 65px;
     background-color: #6c6159;
@@ -22,4 +21,13 @@ body, * {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.size-home {
+    font-size:3em;
+    color: #050501;
+    opacity: 0.8;
+    margin-top: 50px;
+}
+.barree {
+    border-bottom: solid 2px #050501;
 }
